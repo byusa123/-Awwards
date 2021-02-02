@@ -11,7 +11,7 @@ aWWWards is a web app where users submit their projects and other users get to r
 
 ## Author
 
-> [byusa uwase giselle](https://github.com/byusa123)
+ [byusa uwase giselle](https://github.com/byusa123)
 
 ## Set up instructions and installations
 

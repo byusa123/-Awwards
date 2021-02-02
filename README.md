@@ -7,9 +7,7 @@ award
 
 aWWWards is a web app where users submit their projects and other users get to review and rate them.The inspiration behind this project is from the [awwwards](https://www.awwwards.com/) app.
 
-### User Story
 
-To view the user story, open the specs.md file.
 
 ## Author
 

@@ -93,9 +93,7 @@ Some functionality not fully implemented
     - Bootstrap
     - Postgresql
 
-## Live link in heroku
 
-> https://a-www-ards.herokuapp.com/
 
 ## Contacts
 

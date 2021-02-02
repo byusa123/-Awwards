@@ -33,7 +33,7 @@ aWWWards is a web app where users submit their projects and other users get to r
 
 ### Installation instructions
 
-- Clone the repo ~ `git clone https://github.com/jasonmuchiri/aWWWards.git`
+- Clone the repo
 
 - Activate virtual environment: 
    `python3.6 -m venv --without-pip virtual` then `source virtual/bin/activate`

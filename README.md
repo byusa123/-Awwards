@@ -47,20 +47,7 @@ aWWWards is a web app where users submit their projects and other users get to r
   CREATE DATABASE awwards;
   ```
 
-- Create .env file and paste the following filing where appropriate:
-  ```python
-  SECRET_KEY = '<Secret_key>'
-  DBNAME = 'insta'
-  USER = '<Username>'
-  PASSWORD = '<password>'
-  DEBUG = True
 
-  EMAIL_USE_TLS = True
-  EMAIL_HOST = 'smtp.gmail.com'
-  EMAIL_PORT = 587
-  EMAIL_HOST_USER = '<your-email>'
-  EMAIL_HOST_PASSWORD = '<your-password>'
-  ```
 
 - Run initial migration
   ``` bash

@@ -49,11 +49,7 @@ aWWWards is a web app where users submit their projects and other users get to r
 
 
 
-- Run initial migration
-  ``` bash
-  python3.6 manage.py makemigrations awwardsapp
-  python3.6 manage.py migrate
-  ```
+
 
 - Run the app
 
